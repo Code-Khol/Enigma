@@ -7,4 +7,4 @@
   
   ![ter](https://user-images.githubusercontent.com/90928167/197165085-4a07ca28-8835-41fc-8a2f-0d188d151c83.jpg)
   
-  Note: It wil save your ciphered text in message.txt automaticly
+  Note: It wil save your ciphered text in Message.txt automaticly
